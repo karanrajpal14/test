@@ -1,0 +1,9 @@
+.App {
+  font-family: sans-serif;
+  text-align: center;
+}
+.top-level {
+  display: flex;
+  flex-direction: column;
+  height: 200px;
+}
